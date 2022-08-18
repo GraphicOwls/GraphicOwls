@@ -3,7 +3,7 @@
 <!--
 **GraphicOwls/GraphicOwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Thanks for stopping by! I will continue to add to this, but for now here are a few things I have going on:
 
 - 🚀 I’m currently working on [Jetboost](https://jetboost.io), [CodeCrumbs](https://codecrumbs.co) and [Rubicons](https://userubicons.com)
 - 🌱 I’m currently learning React and bettering my JS skills
