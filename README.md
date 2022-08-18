@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Jetboost](https://jetboost.io)
+- 🚀 I’m currently working on [Jetboost](https://jetboost.io)
 - 🌱 I’m currently learning React and bettering my JS skills
 - 👬 I’m looking to meet new people and learn more
 - 💬 How to reach me: [@noahraskin_](https://twitter.com/noahraskin_)
